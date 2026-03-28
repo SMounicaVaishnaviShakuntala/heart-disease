@@ -1,8 +1,7 @@
-# ❤️ CardioPredict AI
+#  CardioPredict AI
 
 CardioPredict AI is a Streamlit-based web application that uses Machine Learning to predict the risk of heart disease based on key health parameters. The application provides real-time predictions along with meaningful insights to support early detection and preventive care.
 
----
 
 ## 🚀 Features
 
@@ -12,8 +11,6 @@ CardioPredict AI is a Streamlit-based web application that uses Machine Learning
 * 🧠 Highlights top contributing health factors
 * 💡 Provides personalized health suggestions
 * 🎨 Clean and modern UI with responsive design
-
----
 
 ## 🛠️ Technologies Used
 
@@ -25,7 +22,6 @@ CardioPredict AI is a Streamlit-based web application that uses Machine Learning
 * Plotly
 * Joblib
 
----
 
 ## 📂 Project Structure
 
@@ -37,7 +33,6 @@ heart-disease/
 │── *.png (images)
 ```
 
----
 
 ## ⚙️ Installation & Running Locally
 
@@ -65,7 +60,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
----
 
 ## 🌐 Deployment
 
@@ -73,7 +67,6 @@ This app is deployed using Streamlit Community Cloud.
 
 👉 Live App: https://heart-disease-prediction2026.streamlit.app/
 
----
 
 ## 📊 Input Parameters
 
@@ -87,7 +80,6 @@ The model takes the following inputs:
 * Fasting Blood Sugar
 * Maximum Heart Rate Achieved
 
----
 
 ## 🧠 How It Works
 
@@ -100,20 +92,17 @@ The model takes the following inputs:
   * High Risk
 * Feature importance is used to generate insights
 
----
 
 ## ⚠️ Disclaimer
 
 This application is for educational and informational purposes only.
 It is not a substitute for professional medical advice, diagnosis, or treatment.
 
----
 
 ## 👩‍💻 Author
 
 Vaishnavi
 
----
 
 ## ⭐ Support
 
