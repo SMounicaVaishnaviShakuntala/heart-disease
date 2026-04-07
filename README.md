@@ -1,4 +1,4 @@
-#  CardioPredict AI
+#  CardioPredict
 
 CardioPredict AI is a Streamlit-based web application that uses Machine Learning to predict the risk of heart disease based on key health parameters. The application provides real-time predictions along with meaningful insights to support early detection and preventive care.
 
